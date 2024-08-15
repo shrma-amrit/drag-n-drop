@@ -10,6 +10,6 @@ prerequisits :
 
 steps to run project :
 
-- `git clone git@github.com:shrma-amrit/specbee-assessment-amrit.git`
+- `git clone git@github.com:shrma-amrit/drag-n-drop.git`
 - `npm install`
 - `npm run dev`
